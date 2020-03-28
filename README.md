@@ -5,17 +5,17 @@ Diabetes  is a chronic disease . It may cause many complications. According to t
 
 
 3. DATA
-The data contains following 21 fields:
+The data contains following 9 fields:
 
-Pregnancies
-Glucose
-BloodPressure
-Skin Thickness
-Insulin
-BMI
-Diabetes Pedigree Function
-Age
-Outcome
+1)Pregnancies  
+2)Glucose  
+3)BloodPressure  
+4)Skin Thickness  
+5)Insulin  
+6)BMI  
+7)Diabetes Pedigree Function  
+8)Age  
+9)Outcome  
 
 
 4.DATA MODELING
